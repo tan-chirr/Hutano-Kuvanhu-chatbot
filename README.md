@@ -1,2 +1,12 @@
-# Hutano-Kuvanhu-chatbot
-Hutanho Kuvana ("Nourishment for Children") is a science-driven initiative designed to combat childhood malnutrition in Zimbabwe through an all-in-one digital nutrition platform. Nutrient deficiency-related diseases such as stunted growth, weakened immunity, and delayed development are a leading cause of under-five mortality in the region.
+# Hutanho Kuvana - Nourishment for Children
+
+Hutanho Kuvana ("Nourishment for Children") is a science-driven initiative aimed at combating childhood malnutrition in Zimbabwe. This platform uses artificial intelligence, mobile learning, and community health data to deliver personalized nutrition advice and interactive education.
+
+## Features:
+- Multilingual AI Chatbot
+- Interactive Children's App
+- Community Health Dashboard
+- Offline Compatibility
+
+## License
+MIT License
